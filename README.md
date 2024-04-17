@@ -1,7 +1,7 @@
 ### What Up 👋
 
 ![](https://komarev.com/ghpvc/?username=LedLas0r&style=plastic)
-#### I'm LedLas0r, I founded & make magic happen for [@Outhrom](https://github.com/Outhrom).
+#### I'm LedLas0r,hala Madrid.
 
 ##### BIO
 
