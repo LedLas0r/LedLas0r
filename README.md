@@ -1,7 +1,7 @@
 ### What Up 👋
 
 ![](https://komarev.com/ghpvc/?username=LedLas0r&style=plastic)
-#### I'm LedLas0r,hala Madrid.
+#### I'm LedLas0r.
 
 ##### BIO
 
