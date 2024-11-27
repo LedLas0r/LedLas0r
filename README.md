@@ -1,8 +1,35 @@
-### What Up 👋
+Hi 👋, I'm Álvaro
+A passionate full-stack developer from Spain
 
-![](https://komarev.com/ghpvc/?username=LedLas0r&style=plastic)
-#### I'm LedLas0r.
 
-##### BIO
+ About Me:
+🏦 I'm a BackEnd and FrontEnd Developer, currently working at ItaliaInWeb / ZumitoTeam
+💻 I use daily .html/.php/.java/.xml/, .css/.scss, .py, .sql, .sh/.bat
+💖 My favorite programming language is Java.
+👩‍🏫 Love teaching and sharing knowledge.
+🧐 Learning about IA and CyberSegurity
+⌨️ My favourite IDE is Intellij.
+⚡ Fun fact: I like videogames too, but especially those where you can code something inside them 
+ Things i used
+Languages:
+javascript css3 html5 php bash apachecordova
 
-![Metrics](https://metrics.lecoq.io/LedLas0r?template=classic&repositories.forks=true&base.metadata=0&languages=1&followup=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&config.timezone=Europe%2FSpain&config.padding=0%2C%2015%25)
+Technologies:
+linux git docker
+
+Services:
+vercel netlify
+
+Frameworks:
+svelte sveltekit angular
+
+Libraries:
+tailwindcss
+
+Databases:
+mysql mongodb
+
+ Projects
+Some Cool projects made by me
+
+ Achivements
