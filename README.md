@@ -47,7 +47,7 @@
 
 ## 📫 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%C3%81lvaro%20del%20Rosal-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/%C3%A1lvaro-del-rosal-gonz%C3%A1lez-558834256/)
-[![Email](https://img.shields.io/badge/Email-alvarodelrosal%40example.com-red?style=flat-square&logo=gmail)](mailto:alvarodelrosal@example.com)
+[![Email](https://img.shields.io/badge/Email-alvarodelrosal%40example.com-red?style=flat-square&logo=gmail)](mailto:alvarodelrosalgonzalez@gmail.com)
 
 ---
 
