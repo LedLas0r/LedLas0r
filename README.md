@@ -17,7 +17,7 @@
 - ❤️ My favorite programming language is **Java**.
 - 🛠️ My favorite IDE is **IntelliJ IDEA**.
 - 🤝 I love **sharing knowledge** and learning from others.
-- 🤖 Currently diving into **AI & Cibersecurity**.
+- 🪷 Advanced web design with HTML5, CSS, and JavaScript.
 
 ---
 
