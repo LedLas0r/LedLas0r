@@ -51,4 +51,3 @@
 
 ---
 
-💡 *"Programming isn't just writing code; it's creating solutions that make a difference."*
