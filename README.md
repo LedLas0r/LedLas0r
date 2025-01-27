@@ -20,8 +20,8 @@
 
 ## 📊 Mis estadísticas en GitHub:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rosalDAM&show_icons=true&theme=radical&hide_title=true&count_private=true" alt="Estadísticas de Rosal" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosalDAM&layout=compact&theme=radical" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LedLas0r&show_icons=true&theme=radical&hide_title=true&count_private=true" alt="Estadísticas de Rosal" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LedLas0r&layout=compact&theme=radical" alt="Lenguajes más usados" />
 </p>
 
 ---
