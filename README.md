@@ -6,7 +6,7 @@
 
 ## 🏆 GitHub Achievements:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LedLas0r&theme=darkhub&no-frame=true&margin-w=15&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dlRosal&theme=darkhub&no-frame=true&margin-w=15&row=1" alt="GitHub Trophies" />
 </p>
 
 ---
